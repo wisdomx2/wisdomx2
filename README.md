@@ -1,4 +1,4 @@
-## <span style="font-family: TAEBAEKmilkyway;">웹의 멋진 얼굴을 만들고 직관적인 UX를 위해 노력하는 프론트엔드 개발자입니다.</span>🌱
+## <span style="font-family: TAEBAEKmilkyway;">웹의 얼굴을 만들고 직관적인 UX를 위해 노력하는 프론트엔드 개발자입니다.</span>🌱
 I'm a frontend developer who designs attractive websites and focuses on creating user-friendly experiences.🌱
 
 <br>
