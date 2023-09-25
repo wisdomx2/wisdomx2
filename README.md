@@ -57,7 +57,7 @@ I am a developer who wants to continue to grow through code reviews and positive
 
 
 
-<!-- * **SSAFY 8기** <I>2022.06.01 ~</I>  -->
+* **SSAFY 9기** <I>2023.01.04 ~</I> 
 
 
 <br/>
