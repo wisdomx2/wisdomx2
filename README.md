@@ -1,5 +1,5 @@
-## <span style="font-family: TAEBAEKmilkyway;">웹의 멋진 얼굴을 만들고 직관적인 UX를 위해 노력하는 프론트엔드 개발자입니다.</span>🌱
-I'm a frontend developer who designs attractive websites and focuses on creating user-friendly experiences.🌱
+## <span style="font-family: TAEBAEKmilkyway;">코드리뷰와 긍정에너지를 통해 지속적으로 성장하고 싶은 개발자입니다.</span>🌱
+I am a developer who wants to continue to grow through code reviews and positive energy.🌱
 
 <br>
 
@@ -8,19 +8,18 @@ I'm a frontend developer who designs attractive websites and focuses on creating
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
-	
+	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
+	<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
 </div>
 <br>
 <div align=center>
 	<p>🛠 Tools 🛠</p>
 </div>
 <div align=center>
-	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+	<img src="https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white" />
+
 </div>
 <br>
 <!-- <div align=center>
