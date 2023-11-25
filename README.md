@@ -63,7 +63,7 @@ I am a developer who wants to continue to grow through code reviews and positive
 <br/>
 
 ### Introduce me
-### 🌱  <I>[PORTFOLIO]</I> 
+### 🌱  <I>[PORTFOLIO](https://jihyeportfolio.vercel.app/)</I> 
 ### ✨  <I>[RESUME]</I>    
 ### ✏️  <I>[BLOG](https://blog.naver.com/annngjihye)</I>    
 
